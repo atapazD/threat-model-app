@@ -33,4 +33,6 @@ Links:
 - [Managing Terraform State - Best Practices & Examples](https://spacelift.io/blog/terraform-state)
 - [Terraform Registry](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 - [Terraform Recommended Practices](https://developer.hashicorp.com/terraform/cloud-docs/recommended-practices)
+- [Module Creation - Best Practices](https://developer.hashicorp.com/terraform/tutorials/modules/pattern-module-creation)
+- [Terraform Style - Best Practices](https://developer.hashicorp.com/terraform/language/style)
 
