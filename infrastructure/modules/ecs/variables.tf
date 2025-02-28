@@ -1,9 +1,3 @@
-variable "repository_name" {
-  type        = string
-  default     = "default-repository"
-  description = "Name for the repository to be created"
-}
-
 variable "cluster_name" {
   type        = string
   default     = "default-cluster"
@@ -25,10 +19,4 @@ variable "owner" {
   type        = string
   default     = "default-owner"
   description = "Owner of the created resource"
-}
-
-variable "environment" {
-  type        = string
-  default     = "dev"
-  description = "Environment for the application"
 }
